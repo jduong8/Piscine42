@@ -1,0 +1,5 @@
+Credentials cache: API:1273F7E5-B91D-452C-BAD7-F08082A6EC45
+        Principal: joduong@42.FR
+
+  Issued                Expires               Principal
+Jun 29 17:03:44 2020  Jul  6 17:03:38 2020  krbtgt/42.FR@42.FR
